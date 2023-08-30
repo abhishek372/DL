@@ -1,6 +1,6 @@
 import './App.css';
 import { Routes, Route, BrowserRouter } from 'react-router-dom'; 
-import LaunchPage from './LaunchPage/launchPage';
+import LaunchPage from './Components/launchPage';
 
 function App() {
   return (
