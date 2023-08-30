@@ -1,0 +1,15 @@
+.font-poppins {
+    font-family: 'Poppins', sans-serif;
+}
+
+.font-grotesque{
+    font-family: 'Bricolage Grotesque', sans-serif;
+}
+
+.font-rubik {
+    font-family: 'Rubik', sans-serif;
+}
+
+::selection {
+    background-color: #3bff9d;
+}

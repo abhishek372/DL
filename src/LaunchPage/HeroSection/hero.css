@@ -1,0 +1,55 @@
+:is(.circle, .circle-sm, .circle-md){
+    position: absolute;
+    background-color: #79797993;
+    opacity: 0.3;
+    border-radius: 50%;
+    overflow: hidden;
+    border: none;
+    box-shadow: 0 0 25px 15px rgb(182, 182, 182) inset;
+}
+
+.circle {
+    height: 800px;
+    width: 800px;
+}
+
+.circle-sm {
+    top: -25%;
+    left: 8%;
+    height: 300px;
+    width: 300px;
+}
+
+.circle-md {
+    top: -25%;
+    right: -5%;
+    height: 400px;
+    width: 400px;
+}
+
+@media screen and (max-width: 640px) {
+    .circle {
+        top: 7%;
+        left: 15%;
+    }
+    .circle-sm, .circle-md {
+        display: none;
+    }
+}
+
+@media (min-width:641px) and (max-width:1024px) {
+    .circle {
+        top: 7%;
+        left: 20%;
+    }
+    .circle-sm, .circle-md {
+        display: none;
+    }
+}
+
+@media (min-width:1025px) {
+    .circle {
+        top: 10%;
+        left: 24%;
+    }
+}
