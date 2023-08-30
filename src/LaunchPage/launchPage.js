@@ -7,7 +7,7 @@ import WaitlistSection from './waitlistSection';
 import QuoteSection from './quoteSection';
 import Faq from './Faq/Faq';
 import ContactSection from './ContactSection/contactSection';
-import Footer from './footer';
+import Footer from './Footer';
 
 
 const LaunchPage = () => {

@@ -32,7 +32,7 @@ const Hero = () => {
                         className='font-rubik text-center text-6xl py-[1rem] sm:py-6 text-transparent sm:text-6xl md:text-7xl lg:text-8xl bg-clip-text selection:text-white'>
                             Link with DappLink
                     </h1>
-                    <p className='text-md text-center text-white py-2 sm:text-lg md:text-xl md:py-3 selection:text-black'>
+                    <p className='text-sm text-center text-white py-2 sm:text-lg md:text-xl md:py-3 selection:text-black'>
                         Unleash the Power of Web3 Technology
                         <br/>
                         Join Our Community of Tech Enthusiasts
@@ -42,7 +42,7 @@ const Hero = () => {
                     
                         <button 
                             className='rounded-none border-[1px] bg-transparent text-white text-[1em] px-8 py-2 sm:text-[1.25rem] font-medium sm:px-8 transition ease-in-out transform hover:rounded-md hover:border-[0.5px] hover:text-gray-800 hover:bg-[#fff] hover:scale-105 duration-500'>
-                            <a href="https://google.com" target='blank' rel="noopener noreferrer" className='w-full'>
+                            <a href="https://form.jotform.com/232391491442051" target='blank' rel="noopener noreferrer" className='w-full'>
                                 Join Now
                             </a>
                         </button>
