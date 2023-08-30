@@ -36,6 +36,7 @@ const Hero = () => {
                         Unleash the Power of Web3 Technology
                         <br/>
                         Join Our Community of Tech Enthusiasts
+                        sdfsdfkjsd
                     </p>
                 </div>
                 <div className='py-4'>
