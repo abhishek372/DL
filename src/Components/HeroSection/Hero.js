@@ -1,8 +1,7 @@
 import React from 'react'
-// import Logo from '../../assets/logo/logo_icon.png';
 import Logo from '../../assets/logo/logo_darkbg.png';
-
 import './hero.css';
+// import Logo from '../../assets/logo/logo_icon.png';
 // import JoinButton from '../JoinButton';
 // import Logo from '../assets/logo/applink_darkbg.png';
 //import Logo from '../assets/logo/logo.png';
@@ -36,7 +35,6 @@ const Hero = () => {
                         Unleash the Power of Web3 Technology
                         <br/>
                         Join Our Community of Tech Enthusiasts
-                        sdfsdfkjsd
                     </p>
                 </div>
                 <div className='py-4'>
